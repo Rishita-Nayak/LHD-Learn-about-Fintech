@@ -18,5 +18,7 @@ Fintech is the term that describes the group of new financial technologies desig
 <br />![Fintech-Ecosystem](https://user-images.githubusercontent.com/86939391/137507094-cc862099-9ced-4433-b7cf-cabe2cc36e2a.jpg)
 
 <br /> #[Technologies used for Fintech Applications](https://www.indusnet.co.in/decoding-top-5-types-of-fintech-applications/)
+<br />![fintech_ecosystem_0](https://user-images.githubusercontent.com/86939391/137509590-96ec94df-fee4-4e53-96b4-721d4d5df6b1.jpg)
+
 
 
