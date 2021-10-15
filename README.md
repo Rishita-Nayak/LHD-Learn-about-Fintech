@@ -8,16 +8,16 @@ Fintech is the term that describes the group of new financial technologies desig
 
 
 ## Blogs from where we learnt about Fintech
-<br /># [What is Fintech ?](https://builtin.com/fintech)
+## <br /> [What is Fintech ?](https://builtin.com/fintech)
 <br />![Fintech-meaning](https://user-images.githubusercontent.com/86939391/137508193-f4253381-b726-46d7-8710-3f46a91e2aa3.jpg)
 
-<br /># [Different types of fintech](https://financesonline.com/what-is-fintech/#toc2)
+## <br /> [Different types of fintech](https://financesonline.com/what-is-fintech/#toc2)
 <br />![OIP](https://user-images.githubusercontent.com/86939391/137500504-9c921bf6-7e10-4795-ab6a-71905b16db7d.jpg)
 
-<br /> #[Different types of Fintech users](https://financesonline.com/what-is-fintech/#toc5)
+## <br /> [Different types of Fintech users](https://financesonline.com/what-is-fintech/#toc5)
 <br />![Fintech-Ecosystem](https://user-images.githubusercontent.com/86939391/137507094-cc862099-9ced-4433-b7cf-cabe2cc36e2a.jpg)
 
-<br /> #[Technologies used for Fintech Applications](https://www.indusnet.co.in/decoding-top-5-types-of-fintech-applications/)
+## <br /> [Technologies used for Fintech Applications](https://www.indusnet.co.in/decoding-top-5-types-of-fintech-applications/)
 <br />![fintech_ecosystem_0](https://user-images.githubusercontent.com/86939391/137509590-96ec94df-fee4-4e53-96b4-721d4d5df6b1.jpg)
 
 
