@@ -13,3 +13,6 @@ Fintech is the term that describes the group of new financial technologies desig
 <br />[](https://financesonline.com/what-is-fintech/#toc2)
 <br />[Different types of fintech users](https://financesonline.com/what-is-fintech/#toc5)
 
+<br />![Fintech-Ecosystem](https://user-images.githubusercontent.com/86939391/137507094-cc862099-9ced-4433-b7cf-cabe2cc36e2a.jpg)
+
+
