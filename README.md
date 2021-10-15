@@ -10,4 +10,5 @@ Fintech is the term that describes the group of new financial technologies desig
 ## Blogs from where we learnt about Fintech
 <br />[What is Fintech ?](https://builtin.com/fintech)
 <br />![OIP](https://user-images.githubusercontent.com/86939391/137500504-9c921bf6-7e10-4795-ab6a-71905b16db7d.jpg)
+<br />[](https://financesonline.com/what-is-fintech/#toc2)
 
